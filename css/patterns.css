@@ -1,0 +1,59 @@
+/* Titles */
+h1,
+h2,
+h3 {
+  font-family: "Sora", sans-serif;
+  font-weight: 600;
+  line-height: 125%;
+  letter-spacing: -1px;
+  color: var(--white);
+}
+
+h1 {
+  font-size: 4.8rem;
+  color: var(--gray-colors-100);
+}
+
+h2 {
+  font-size: 3.2rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+/* Buttons */
+.btn-primary {
+  font-family: 'Sora', sans-serif;
+  display: inline-block;
+  background-color: var(--brown-color-2);
+  padding: 1.2rem 3.4rem;
+  border-radius: 4px;
+  letter-spacing: -0.01em;
+  color: var(--gray-colors-100);
+  transition: 0.4s;
+}
+.btn-primary:hover {
+  color: var(--white-color-1);
+  background-color: #913d04ea;
+}
+
+/* menu items, button */
+.menu-item {
+  display: inline-block;
+  padding: 1.2rem 2.4rem;
+  border-radius: 4px;
+  font-size: 1.5rem;
+  line-height: 105%;
+  letter-spacing: -0.01em;
+  color: var(--white-color-1);
+  transition: 0.6s;
+}
+.menu-item:hover {
+  color: var(--gray-colors-100);
+}
+
+
+
+
+

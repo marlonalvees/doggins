@@ -1,0 +1,16 @@
+:root {
+  --gray-colors-50: #e6ebf2;
+  --gray-colors-100: #050110;
+  --gray-colors-200: #1c1d1f;
+  --gray-colors-300: #393c40;
+  --gray-colors-400: #5c6066;
+  --gray-colors-800: #f7f8fa;
+  --white-colors-text: rgba(255, 255, 255, 0.7);
+  --white: #ffffff;
+
+  --brown-primary: rgba(114, 71, 36);
+  --brown-color-2: #9e5c30;
+  --brown-color-3: #272727e7;
+  --white-color-1: #FEFEFE;
+  --blue-color-1: #5f9ea0;
+}
